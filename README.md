@@ -12,10 +12,12 @@ Louise is an up and coming playwriter and has turned to our expertise in Excel t
 There were two main analysis that were done for this project. As per below, you will find one analysis that compares the number of of Successful, Failed, and Canceled Theater campaigns relative to their launch month. The second analysis focused on the percentage of successfull, Failed, and Cancelled Campaigns relating to Plays based on their goals. The main findings of this analysis were as follows:
 
 #### Outcome of Theater Campaigns Based on Launch Date
-![Outcomes vs Launch Date](https://github.com/yaakoum/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png](https://github.com/myaakoub93/assignment-kickstarter/blob/0468820d02e63dfa17f2a39a9b9c92f2507918b2/Resources/Outcomes_vs_Goals.png)
+![Outcomes vs Launch Date](https://github.com/myaakoub93/assignment-kickstarter/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 As seen on the line chart above, we can see that most theater campaigns were successful and there was a correlation between the month they were launched on. Most Successfull ones were launched in the month of May while the failed campaigns remained relatively consistant throughout the year.
 #### Outcome of Campaigns related to Plays Based on Goals
-![Outcomes vs Goals](https://github.com/yaakoum/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png](https://github.com/myaakoub93/assignment-kickstarter/blob/0468820d02e63dfa17f2a39a9b9c92f2507918b2/Resources/Theater_Outcomes_vs_Launch.png)
+
+![Outcomes vs Goals](https://github.com/myaakoub93/assignment-kickstarter/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and/or difficulties
